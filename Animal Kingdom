@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Animal Kingdom</title>
+</head>
+<body>
+    <main>
+        <h1>The Animal Kingdom</h1>
+
+        <div>
+            <h2>About</h2>
+            <p>Welcome to the Fascinating World of Animals</p>
+             <p>The animal kingdom is a vast and diverse realm filled with incredible creatures, from the tiniest insects to the largest mammals. Each species plays a unique role in the balance of nature, contributing to the beauty and complexity of life on Earth. Whether you're exploring the depths of the ocean, the heights of the skies, or the heart of the rainforest, there's always something new to discover. Join us as we journey through the wonders of wildlife and learn more about the amazing animals that share our planet. </p>
+        </div>
+
+        <div>
+            <h2>Quick Facts</h2>
+
+            <h3>Popular Animals</h3>
+            <ul>
+                <li>Lion</li>
+                <li>Dolphin</li>
+                <li>Elephant</li>
+                <li>Penguin</li>
+            </ul>
+
+            <a href="https://www.worldwildlife.org/species/directory" target="_blank">
+                <h3>Explore Endangered Animals</h3>
+            </a>
+
+            <ol>
+                <li>Amur Leopard</li>
+                <li>Black Rhino</li>
+                <li>Cross River Gorilla</li>
+                <li>Asian Elephant</li>
+                <li>Blue Whale</li>
+            </ol>
+        </div>
+
+        <div>
+            <h2>Gallery</h2>
+          <img src="attached_assets/image_1748243637109.png" alt="Close-up of a bear's face" style="width: 90%;">
+          <img src="attached_assets/image_1748243652493.png" alt="Dolphin swimming underwater" style="width: 90%;">
+          <img src="attached_assets/image_1748243682443.png" alt="Baby elephant sitting" style="width: 90%;">
+
+        </div>
+    </main>
+</body>
+</html>
